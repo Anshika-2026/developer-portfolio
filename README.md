@@ -1,41 +1,17 @@
-
 # Anshika Tyagi — Developer Portfolio
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024–28
 
----
+## Live Portfolio Website
+🌐 **[View Live Portfolio Website](https://github.io)**
 
 ## Repository Index
 
 | Repository | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [cse103-lab-LAB3](https://github.com) | CSE103 Lab — Git workflows, APIs, Shell scripting | Git, Python, Bash | Active |
+| [developer-portfolio](https://github.com) | Central portfolio index & GitHub Pages website | HTML, CSS, Markdown | Active |
 
-|------------|-------------|------------|--------|
-
-| [cse103-lab-LAB3](https://github.com/[username]/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting |
-
-Git, Python, Bash | Active |
-
-| [developer-portfolio](https://github.com/[username]/developer-portfolio) | This portfolio index | Markdown | Active
-
-|
-
----
-
-## Current Skills
-
-Python [█████░░░░░] 50%
-
-Linux / Bash [████░░░░░░] 40%
-
-Git / GitHub [█████░░░░░] 50%
-
----
-
-## Learning Roadmap
-
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
-
-## Progress Tracker
-
-See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
-
+## Documentation
+* [6-Semester Learning Roadmap](LEARNING_ROADMAP.md)
+* [Coding & Certification Progress](PROGRESS.md)
