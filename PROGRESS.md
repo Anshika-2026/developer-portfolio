@@ -2,17 +2,19 @@
 # Updated: 26 November 2026
 ---
 ## HackerRank
-- Profile URL : https://hackerrank.com
+- Profile URL : https://www.hackerrank.com/profile/tsonika898
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 - Skill test taken : Python (Basic)
 - Certificate : Earned | https://www.hackerrank.com/certificates/1507ff1b7353
 ## LeetCode
-- Profile URL : https://leetcode.com
+- Profile URL : https://leetcode.com/problems/palindrome-number/
+- https://leetcode.com/problems/two-sum/description/
 - Easy attempted : 2 (Two Sum, Palindrome Number)
 - Easy solved : 2
 - Medium attempted : 0
 ## freeCodeCamp
-- Profile URL : https://freecodecamp.org
+- Profile URL : https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-cat-photo-app/step-15
+- https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-cafe-menu/step-10
 - Current track : Responsive Web Design
 - Steps completed : 25 / approx. 300 hours for full certification
 ---
