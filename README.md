@@ -3,7 +3,7 @@
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024–28
 
 ## Live Portfolio Website
-🌐 **[View Live Portfolio Website](https://github.io)**
+**[View Live Portfolio Website](https://github.io)**
 
 ## Repository Index
 
